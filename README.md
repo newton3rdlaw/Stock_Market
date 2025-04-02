@@ -54,12 +54,7 @@ An easy-to-use toolkit to obtain data for Stocks, ETFs, Mutual Funds, Forex/Curr
 - [IEX cloud](https://iexcloud.io/)
 - [documentation](https://iexcloud.io/docs/api/)
 
-## Statistical Method
-- **Monte Carlo method**
-A Monte Carlo simulation is an attempt to predict the future many times over. At the end of the simulation, thousands or millions of "random trials" produce a distribution of outcomes that can be analyzed.
-Read more at 
 
-https://www.investopedia.com/articles/07/montecarlo.asp
 ## Install
 ## Technology:
 - Python 3
